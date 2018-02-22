@@ -1,4 +1,4 @@
-# 🚦 Checkpoint
+# Checkpoint
 
 Convert Reddit...ish to React with Redux!
 
