@@ -7,7 +7,7 @@ import { Container, Row, Col, Button } from 'reactstrap'
 class Main extends Component {
   render() {
     return (
-      <Container className="mt-5">
+      <Container className="mt-4">
         <Row>
           <Col sm={{size: 8, offset: 1}}>
             <FilterPosts />

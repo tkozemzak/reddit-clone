@@ -19,7 +19,7 @@ import FaArrowDown from 'react-icons/lib/fa/arrow-down'
 
 const Post = props => {
   return (
-    <Row>
+    <Row className="mt-3">
       <Col>
         <Card>
           <CardImg
@@ -32,17 +32,16 @@ const Post = props => {
             <CardTitle>Post Title | <FaArrowUp /> 1 <FaArrowDown /></CardTitle>
             <CardSubtitle>Post Author</CardSubtitle>
             <CardText>
-              <p>Post Body</p>
+              Post Body
               <hr />
-              <p>Comments</p>
+              Comments
               <Form inline>
                 <FormGroup className="mb-2 mr-sm-2 mb-sm-0">
-                  
                   <Input type="text" name="comment" id="comment-field" placeholder="Enter a comment here" />
                 </FormGroup>
                 <Button>Submit</Button>
               </Form>
-              <ul>
+              <ul className="mt-2">
                 <li>Comment One</li>
                 <li>Comment Two</li>
               </ul>

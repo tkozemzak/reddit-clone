@@ -16,7 +16,7 @@ class FilterPosts extends Component {
             <option>Date Added</option>
           </Input>
         </FormGroup>
-        <Button>Submit</Button>
+        <Button type="submit">Submit</Button>
       </Form>
     )
   }
