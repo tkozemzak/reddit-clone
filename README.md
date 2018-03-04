@@ -10,8 +10,8 @@ Convert Reddit...ish to React with Redux!
 
 Just like the previous checkpoints, you will be hitting the [provided API for this course](https://github.com/gSchool/collective-api) and be hitting the following endpoints:
 
-* `http://localhost:8000/posts` (for the posts)
-* `http://localhost:8000/comments` (for the comments)
+* `http://localhost:8082/api/posts` (for the posts)
+* `http://localhost:8082/api/comments` (for the comments)
 
 You could roughly follow these steps (not necessarily in this order):
 
