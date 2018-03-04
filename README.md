@@ -4,7 +4,7 @@ Convert Reddit...ish to React with Redux!
 
 ## Getting started
 
-* Go to the follwing repository and clone [this project](https://github.com/gSchool/reddit-clone-redux) to your local machine
+* Clone [this repo](https://github.com/gSchool/redux-unit-checkpoint) to your local machine
 * Install the dependencies with either `yarn` or `npm install`
 * This is styled with `Bootstrap v3.3.7`
 
