@@ -16,6 +16,7 @@ import {
 } from 'reactstrap'
 import FaArrowUp from 'react-icons/lib/fa/arrow-up'
 import FaArrowDown from 'react-icons/lib/fa/arrow-down'
+import FaComment from 'react-icons/lib/fa/comment'
 
 const Post = props => {
   return (
@@ -33,8 +34,9 @@ const Post = props => {
             <CardSubtitle>Post Author</CardSubtitle>
             <CardText>
               Post Body
+            </CardText>
               <hr />
-              Comments
+              a few seconds ago | <FaComment /> 2 Comments
               <Form inline>
                 <FormGroup className="mb-2 mr-sm-2 mb-sm-0">
                   <Input type="text" name="comment" id="comment-field" placeholder="Enter a comment here" />
@@ -45,7 +47,6 @@ const Post = props => {
                 <li>Comment One</li>
                 <li>Comment Two</li>
               </ul>
-            </CardText>
           </CardBody>
         </Card>
       </Col>

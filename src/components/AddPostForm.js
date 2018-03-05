@@ -2,14 +2,11 @@ import React, {Component} from 'react'
 import { Row, Col, Form, FormGroup, Label, Input, Button } from 'reactstrap'
 
 class AddPostForm extends Component {
-  handleSubmit = () => {
-    this.props.addPost()
-  }
   render() {
     return (
       <Row>
         <Col sm="10">
-          <Form onSubmit={this.handleSubmit}>
+          <Form>
             <FormGroup>
               <Label for="title-field">Title</Label>
               <Input type="text" name="title" id="title-field" />
