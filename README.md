@@ -51,11 +51,6 @@ You could roughly follow these steps (not necessarily in this order):
 
 * Users can filter based on the post title
 
-**Sort**
-
-* Users see posts ordered by votes (most first) by default
-* Users can sort by Date or by Title
-
 **Comments**
 
 * Users can toggle comments
@@ -90,10 +85,6 @@ Downvoting
 **Filter**
 
 ![](https://github.com/gSchool/angular-curriculum/blob/master/images/reddit-clone-1/reddit-clone-filter.gif?raw=true)
-
-**Sort**
-
-![](https://github.com/gSchool/angular-curriculum/blob/master/images/reddit-clone-1/reddit-clone-sort.gif?raw=true)
 
 **Comments**
 
