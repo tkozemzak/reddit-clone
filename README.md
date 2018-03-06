@@ -62,30 +62,26 @@ You could roughly follow these steps (not necessarily in this order):
 
 Form toggle
 
-![](https://github.com/gSchool/angular-curriculum/blob/master/images/reddit-clone-1/reddit-clone-form-toggle.gif?raw=true)
+![](/images/form-toggle.gif)
 
 Validations
 
-![](https://github.com/gSchool/angular-curriculum/blob/master/images/reddit-clone-1/reddit-clone-form-validations.gif?raw=true)
+![](/images/validation.gif)
 
 Creating and viewing a post
 
-![](https://github.com/gSchool/angular-curriculum/blob/master/images/reddit-clone-1/reddit-clone-create-post.gif?raw=true)
+![](/images/add-new-post.gif)
 
 **Votes**
 
-Upvoting
+Voting
 
-![](https://github.com/gSchool/angular-curriculum/blob/master/images/reddit-clone-1/reddit-clone-votes.gif?raw=true)
-
-Downvoting
-
-![](https://github.com/gSchool/angular-curriculum/blob/master/images/reddit-clone-1/reddit-clone-down-votes.gif?raw=true)
+![](/images/voting.gif)
 
 **Filter**
 
-![](https://github.com/gSchool/angular-curriculum/blob/master/images/reddit-clone-1/reddit-clone-filter.gif?raw=true)
+![](/images/filter.gif)
 
 **Comments**
 
-![](https://github.com/gSchool/angular-curriculum/blob/master/images/reddit-clone-1/reddit-clone-comments.gif?raw=true)
+![](/images/commenting.gif)
