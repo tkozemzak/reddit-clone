@@ -2,7 +2,11 @@ import React, { Component } from 'react'
 import { Button, Form, FormGroup, Label, Input } from 'reactstrap';
 
 class FilterPosts extends Component {
+  state = {
+    filterPhrase: ''
+  }
   render () {
+
     return (
       <Form inline>
         <FormGroup className="mb-2 mr-sm-2 mb-sm-0">
